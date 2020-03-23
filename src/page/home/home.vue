@@ -60,7 +60,7 @@
       <el-row :justify="center">
         <el-table
           :data="tableData"
-          height="350"
+          height="250"
           border
           style="width: 100%">
           <el-table-column
