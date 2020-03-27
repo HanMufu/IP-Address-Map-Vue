@@ -1,4 +1,4 @@
-# IPMap Frontend
+# Frontend of IP Address Map
 
 A Vue.js project.   
 
